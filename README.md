@@ -35,4 +35,4 @@ The project converts raw sales data into an interactive business report that hel
 
 ---
 ### 📸Dashboard Preview
-![Vrinda Store Dashboard](Vrinda Store Data Analysis.png)
+![Vrinda Store Dashboard](Vrinda%20Store%20Data%20Analysis.png)
