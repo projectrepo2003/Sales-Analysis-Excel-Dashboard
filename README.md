@@ -3,4 +3,30 @@ Vrinda Store Data Analysis is an Excel-based business analytics project focused 
 
 The project uses 31,047 transaction records from 2022 and converts the raw transactional data into interactive reports and visualizations using Excel PivotTables, PivotCharts, and slicers.
 
-The primary objective was to identify which customer segments, products, regions, and sales channels contribute most to the business, and use these findings to support data-driven business decisions.
+---
+### Objective
+To transform raw transaction data into actionable business insights and understand:
+
+- Sales and order trends
+- Customer demographics and purchasing patterns
+- Top-performing products and states
+- Sales channel performance
+- Order fulfillment and returns
+
+---
+### Tools & Techniques
+- Microsoft Excel
+- Data cleaning and aggregation
+- PivotTables & PivotCharts
+- Slicers and interactive filtering
+- KPI analysis
+
+---
+### Key Insights
+- ₹21.18M in total sales analyzed
+- Female customers generated approximately ₹13.56M in sales
+- Maharashtra was the top-performing state
+- Set was the highest-selling product category
+- Amazon was the leading sales channel by transaction volume
+- Approximately 92.3% of transactions were delivered
+- Customer segmentation
